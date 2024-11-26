@@ -1,6 +1,6 @@
 # Naming Game Simulation
 
-## Group Members
+## Group 5
 - Dam Thai Ninh - 22022522
 - Le Viet Hung - 22022666 
 - Bui Duc Manh - 22022602
